@@ -1,2 +1,2 @@
-# goit-markup-hw-02_070922
- 
+# Web-Studio
+ D:\Mega sync\IT\GO It\Web Studio
